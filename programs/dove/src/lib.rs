@@ -6,7 +6,7 @@ use anchor_lang::prelude::*;
 pub use error::ErrorCode;
 use instructions::*;
 
-declare_id!("7ucMA2F1i5V1U2WDSEdwJhmdTc34aRZCxpbvkzF56XGs");
+declare_id!("A5Lp86CUY8uqbrwzLS1VA37AGemvRjf4wdorPSAM3NYd");
 
 #[program]
 pub mod dove {

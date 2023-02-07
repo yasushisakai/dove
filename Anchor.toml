@@ -3,7 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-dove = "7ucMA2F1i5V1U2WDSEdwJhmdTc34aRZCxpbvkzF56XGs"
+dove = "A5Lp86CUY8uqbrwzLS1VA37AGemvRjf4wdorPSAM3NYd"
 
 [programs.devnet]
 dove = "7ucMA2F1i5V1U2WDSEdwJhmdTc34aRZCxpbvkzF56XGs"
